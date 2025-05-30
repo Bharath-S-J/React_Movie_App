@@ -1,0 +1,60 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.app{
+  padding: 50px;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.genreclass{
+  border-radius: 20px;
+  width: 100%;
+  margin: 20px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.034);
+}
+.genrebox{
+margin-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width:100%
+}
+.genre{
+  padding: 10px 15px;
+  border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+.movielist{
+  border-radius: 50px;
+  width: 100%;
+}
+
+table{
+  width: 100%;
+}
+
+table,th,td{
+  border: 1px solid;
+  border-collapse: collapse;
+
+}
+
+th,td{
+  padding: 8px 12px;
+}
+thead{
+  background-color: rgba(0, 0, 0, 0.034);
+}
+
+
