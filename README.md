@@ -3,7 +3,7 @@
 A simple React app (built with Vite) that displays a list of movies and lets users filter them by genre.
 
 ### 🔗 Live Demo (if deployed)
-[Link goes here]
+[Link goes here](https://react-movie-app-khaki-one.vercel.app/)
 
 ---
 
